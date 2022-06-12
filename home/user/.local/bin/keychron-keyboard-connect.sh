@@ -10,7 +10,7 @@ fi
 
 # Variables
 prefix='[Keychron Connect]'
-unpriv_user="lroeper"
+unpriv_user="user"
 kernel_module_apple_hid_fnmode_check=$(cat /sys/module/hid_apple/parameters/fnmode)
 usb_device_manufacturer="Keychron"
 usb_device_manufacturer_check=$(lsusb -v -d 05ac: | grep -m 1 'iManufacturer' | awk '{print $3}')
