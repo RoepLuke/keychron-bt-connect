@@ -1,0 +1,1 @@
+%keycron ALL=(root) NOPASSWD: /home/user/.local/bin/keychron-keyboard-connect.sh
