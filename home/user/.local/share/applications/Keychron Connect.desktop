@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+NoDisplay=false
+Terminal=true
+Exec=/usr/bin/sudo /home/user/.local/bin/keychron-keyboard-connect.sh
+Icon=/home/user/.local/share/icons/keychron-k3-e3.png
+Name=Keychron Connect
+Comment=
+Categories=
